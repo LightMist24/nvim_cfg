@@ -1,7 +1,7 @@
 # Neovim
 You must have installed git and neovim. That is a basic for everything.
-you can click here to install.
----- [Git](https://git-scm.com/downloads)
+you can click here to install.<br />
+---- [Git](https://git-scm.com/downloads)<br />
 ---- [Neovim](https://neovim.io/) or you want to find it in GitHub [neovim/neovim](https://github.com/neovim/neovim)
 
 # ;-)
@@ -95,7 +95,7 @@ And some for plugins:
 | Find | `<leader>ff` | Normal |
 
 ......
-Some like this much. Emmm...;-)
+Some like this much. Emmm...;-)<br />
 Message: Some like `'SS'`, you need to hold shift and then press `'s'` twice. And `'<leader>'` is been default to `' '(It is a Space)`.
 
 # Tip
