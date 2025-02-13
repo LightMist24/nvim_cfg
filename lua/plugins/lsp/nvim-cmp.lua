@@ -135,10 +135,10 @@ return {
           ["<C-d>"] = cmp.mapping.scroll_docs(-4),
           ["<C-u>"] = cmp.mapping.scroll_docs(4),
           ["<C-l>"] = cmp.mapping.complete(),
-          ["<CR>"] = cmp.mapping.confirm({
-            behavior = cmp.ConfirmBehavior.Replace,
-            select = true,
-          }),
+          -- ["<CR>"] = cmp.mapping.confirm({
+          --   behavior = cmp.ConfirmBehavior.Replace,
+          --   select = true,
+          -- }),
           ["<Up>"] = cmp.mapping.select_prev_item(select_opts),
           ["<Down>"] = cmp.mapping.select_next_item(select_opts),
           ["<Tab>"] = cmp.mapping(function(fallback) -- "<C-n>""
